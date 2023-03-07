@@ -1,4 +1,4 @@
-# Electrophysiological feature extraction
+# Electrophysiological feature extraction:
 
 https://github.com/bcmjianglab/cn_project/tree/main/Electrophysiology_analysis/code
 
