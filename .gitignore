@@ -1,0 +1,12 @@
+.spyproject/*
+__pycache__/*
+build/*
+dist/*
+data_explorer/data/*
+data_explorer/__pycache__/*
+.coverage
+htmlcov/*
+Tests/data/*
+Data/~$README*
+scratchPad.py
+docs/
