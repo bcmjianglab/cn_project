@@ -44,7 +44,9 @@ https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Branched
 *The 2-dimensional cross-sectional area contained within the boundary of the cell body.*
 
 - Feret maximum and Feret minimum
+![image](https://user-images.githubusercontent.com/42681557/224108051-35341cb7-18c3-4a49-b50f-2200f2bd05ff.png)
 *Feret maximum and Feret minimum refer to the largest and smallest dimensions of a contour, respectively, as if a caliper were used for measurement. The two measurements are independent of one another and not necessarily at right angles to each other.Feret maximum and Feret minimum are reported for each contour drawn.*
+
 - Aspect ratio
 - Compactness
 - Convexity
