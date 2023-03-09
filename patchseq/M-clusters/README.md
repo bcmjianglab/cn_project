@@ -32,9 +32,11 @@ https://github.com/berenslab/MorphoPy
 ## Soma feature extraction and sholl analysis with Neurolucida Explorer:
 ### Soma feature extraction:
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/BranchedStructure/neuronSumm.htm
+
 ![image](https://user-images.githubusercontent.com/42681557/224106730-f3319249-09d6-4b4d-b5ed-82727c8caec8.png)
+
 - Perimeter
-Length of the contour representing the cell body.
+-- Length of the contour representing the cell body.
 - Area
 - Feret maximum and Feret minimum
 - Aspect ratio
