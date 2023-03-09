@@ -33,9 +33,11 @@ https://github.com/berenslab/MorphoPy
 
 The stem (from soma to the first branch point of a dendrite) length was manually calculated the. Stem_max/Stem_min/Stem_mean (in micrometer) represent the maximum, minimum and the mean values of the stem lengths of all the dendrites of a cell. If a cell has only one dendrite, these three parameters will be same.
 
-![image](https://user-images.githubusercontent.com/42681557/224112674-a4f0851a-14bb-4400-b11b-ee111313a6a1.png)
+![image](https://user-images.githubusercontent.com/42681557/224113039-576d6a9e-04e5-4460-8839-457acc06fde7.png)
+![image](https://user-images.githubusercontent.com/42681557/224118112-1d684113-7282-4804-9def-21e994fc4148.png)
 
 *Example of x, y, z coordinates of a dendritic stem*
+
 
 ## Soma feature extraction and sholl analysis with Neurolucida Explorer:
 ### Soma feature extraction:
