@@ -35,7 +35,7 @@ The stem (from soma to the first branch point of a dendrite) length was manually
 
 ![image](https://user-images.githubusercontent.com/42681557/224118282-860f79aa-8b43-4660-af70-d8ed691db061.png)
 
-*Example of x, y, z coordinates of a dendritic stem from a Neurolucida morphology (*.asc) file and formula for length calculation*
+*Example of x, y, z coordinates of a dendritic stem from a Neurolucida morphology (.asc) file and formula for length calculation*
 
 
 ## Soma feature extraction and sholl analysis with Neurolucida Explorer:
