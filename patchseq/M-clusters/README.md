@@ -86,4 +86,4 @@ https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Branched
 
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Sholl.htm
 
-![image](https://user-images.githubusercontent.com/42681557/224109959-15a5aa38-82bd-4b95-9db8-907f7431b008.png)
+![image](https://user-images.githubusercontent.com/42681557/224110690-e916a15a-977f-45f6-bb5d-cb5dc32e7293.png)
