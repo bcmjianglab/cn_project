@@ -80,5 +80,8 @@ https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Branched
 
 *Solidity = [Area] / [Convex Area]*
 
+### sholl analysis:
+
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Sholl.htm
+
 ### 
