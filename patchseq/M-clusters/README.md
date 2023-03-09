@@ -4,7 +4,6 @@
 
 https://github.com/berenslab/MorphoPy
 
-
 #### Morphometric statistics
 
 `MorphoPy` offers a default selection of 28 single-valued morphometric statistics, namely:
