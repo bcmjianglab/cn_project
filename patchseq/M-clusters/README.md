@@ -36,7 +36,7 @@ https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Branched
 ![image](https://user-images.githubusercontent.com/42681557/224106730-f3319249-09d6-4b4d-b5ed-82727c8caec8.png)
 
 - Perimeter
-  Length of the contour representing the cell body.
+ ##### Length of the contour representing the cell body.
 
 - Area
   The 2-dimensional cross-sectional area contained within the boundary of the cell body.
