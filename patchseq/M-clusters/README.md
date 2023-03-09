@@ -4,7 +4,7 @@
 
 https://github.com/berenslab/MorphoPy
 
-#### Morphometric statistics
+#### Morphometric statistics (copy from https://github.com/berenslab/MorphoPy )
 
 `MorphoPy` offers a default selection of 28 single-valued morphometric statistics, namely:
 - number of branch points
@@ -39,7 +39,8 @@ The stem (from soma to the first branch point of a dendrite) length was manually
 
 
 ## Soma feature extraction and sholl analysis with Neurolucida Explorer:
-### Soma feature extraction:
+### Soma feature extraction (copy from Neurolucida):
+
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/BranchedStructure/neuronSumm.htm
 
 
