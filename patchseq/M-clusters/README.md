@@ -29,6 +29,8 @@ https://github.com/berenslab/MorphoPy
 
 *Fig. 2: Explanatory schematic of the morphometric statistics that can be computed on all nodes. Left: distance measures, Right: angles.*
 
+### stems length calculations:
+
 ## Soma feature extraction and sholl analysis with Neurolucida Explorer:
 ### Soma feature extraction:
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/BranchedStructure/neuronSumm.htm
@@ -80,8 +82,7 @@ https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Branched
 
 *Solidity = [Area] / [Convex Area]*
 
-### sholl analysis:
+### Sholl analysis:
 
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Sholl.htm
 
-### 
