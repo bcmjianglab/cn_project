@@ -27,7 +27,7 @@ https://github.com/berenslab/MorphoPy
 
 ![Morphometric statistics that can be queried.](https://user-images.githubusercontent.com/520137/80974473-0f4d2380-8e21-11ea-8ce2-acb8153cece4.png)
 
-*Fig. 2: Explanatory schematic of the morphometric statistics that can be computed on all nodes. Left: distance measures, Right: angles.*
+*Explanatory schematic of the morphometric statistics that can be computed on all nodes. Left: distance measures, Right: angles.*
 
 ### stems length calculations:
 
@@ -37,7 +37,6 @@ The stem (from soma to the first branch point of a dendrite) length was manually
 ### Soma feature extraction:
 https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/BranchedStructure/neuronSumm.htm
 
-![image](https://user-images.githubusercontent.com/42681557/224106730-f3319249-09d6-4b4d-b5ed-82727c8caec8.png)
 
 - Perimeter
 
