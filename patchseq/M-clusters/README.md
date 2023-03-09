@@ -9,7 +9,7 @@ MorphoPy currently only supports neurites that connect back to the soma. This me
 A neuron is represented as a directed acyclic graph with node attributes id, x-, y-, z- position, radius and type_id (soma: 1, axon: 2, dendrite: 3, apical dendrite: 4), and with edge attributes path_length and euclidean_dist. Positions, radius and length mesaures are assumed to be given in microns.
 
 Node and edge attributes
-
+![image](https://user-images.githubusercontent.com/42681557/224103736-9c3ba11b-a48c-42b4-be33-3f20c2095dce.png)
 Fig. 1: Node and edge attributes associated with each neuron graph.
 
 All data is stored in the tidy data format.
@@ -42,5 +42,5 @@ max, min and average branch angle
 maximal branching degree (with soma excluded)
 weighted proportional sum of absolute deviations as a measure of tree asymmetry (for more details see https://www.sciencedirect.com/science/article/pii/0165027086901196)
 Morphometric statistics that can be queried.
-
+![image](https://user-images.githubusercontent.com/42681557/224103807-714337e2-0fbb-4a13-94bd-3f65a2c1081a.png)
 Fig. 2: Explanatory schematic of the morphometric statistics that can be computed on all nodes. Left: distance measures, Right: angles.
