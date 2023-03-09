@@ -37,11 +37,11 @@ https://www.mbfbioscience.com/help/neurolucida_explorer/Content/Analyze/Branched
 
 - Perimeter
 
-* Length of the contour representing the cell body.
+*Length of the contour representing the cell body.
 
 - Area
 
-* The 2-dimensional cross-sectional area contained within the boundary of the cell body.
+*The 2-dimensional cross-sectional area contained within the boundary of the cell body.
 
 - Feret maximum and Feret minimum
 - Aspect ratio
