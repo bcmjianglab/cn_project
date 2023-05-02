@@ -1,3 +1,4 @@
+![CN](https://user-images.githubusercontent.com/42681557/235717163-05d6f944-5921-4476-9aca-3baf474e5c8e.png)
 # A multimodal cell census and atlas of the mouse cochlear nucleus.
 By Junzhan Jing, Ming Hu, Xiaolong Jiang from Deparment of Neurosicence, Baylor College of Medicine
 
@@ -8,4 +9,4 @@ The `data_explorer` contains GUI to help explore the processed files. Follow the
 
 
 
-![CN](https://user-images.githubusercontent.com/42681557/235717163-05d6f944-5921-4476-9aca-3baf474e5c8e.png)
+
