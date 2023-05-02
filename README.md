@@ -5,4 +5,7 @@ Original electrophysiological data, morphological data and the sequencing matrix
 
 ## Data visualizer
 The `data_explorer` contains GUI to help explore the processed files. Follow the README.txt to setup a `Python` environment. 
-![Figure2](https://user-images.githubusercontent.com/42681557/235717014-0c9f7edc-6073-4fe0-96fa-4a78594ab08e.png)
+
+
+
+![CN](https://user-images.githubusercontent.com/42681557/235717163-05d6f944-5921-4476-9aca-3baf474e5c8e.png)
