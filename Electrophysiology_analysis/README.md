@@ -1,7 +1,8 @@
 ### [Patchview](https://github.com/ZeitgeberH/patchview) by@[ZeitgeberH](https://github.com/ZeitgeberH) is recommended
 
 ![ephysi analysis](https://user-images.githubusercontent.com/42681557/223562990-2256c301-98f6-46b3-85c3-75be18710124.png)
-Extraction of the electrophysiological features
+## Extraction of the electrophysiological features
+
 (A) Membrane potential responses of an example neuron to the consecutive step current injections.
 (B) A series of membrane potential traces in response to hyperpolarizing current steps are fitted with an exponential function. The tau (t) is calculated for each trace. 
 (C) A box plot shows a series of Tau values from one sample neuron, including maximum (Max), minimum (Min), mean, median, the first quartile (Q1), the third quartile (Q3), the interquartile range (IQR) values. The Tau values falling above the upper range (> Q3+1.5*IQR) or below the low range (< Q1-1.5*IQR) are considered outliers and removed before averaging for the mean value. 
