@@ -1,4 +1,4 @@
-Patchview by@ZeitgeberH[https://github.com/ZeitgeberH] is recommended (https://github.com/ZeitgeberH/patchview)
+### [Patchview](https://github.com/ZeitgeberH/patchview) by@[ZeitgeberH](https://github.com/ZeitgeberH) is recommended
 
 ![ephysi analysis](https://user-images.githubusercontent.com/42681557/223562990-2256c301-98f6-46b3-85c3-75be18710124.png)
 Extraction of the electrophysiological features
