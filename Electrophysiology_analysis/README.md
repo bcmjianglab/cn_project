@@ -12,5 +12,5 @@
 ##### (H) A representative AP trace (top) and its third derivative (dV/dt3, bottom). The AP threshold is the membrane potential where the third derivative of the AP trace is maximal, as indicated with a red dot. AP depolarization time, AP amplitude, AP repolarization time, AP half-width, and the afterhyperpolarization (AHP) amplitude are defined as shown with double-arrow lines and dash lines. 
 ##### (I) The membrane potential trace in response to 2x rheobase current injection. The initial (adaptation_index1) and last adaptation index (adaptation_index2) are calculated with inset equations after the interspike interval (ISI) between each AP is determined. 
 
-### [Patchview](https://github.com/ZeitgeberH/patchview) by@[ZeitgeberH](https://github.com/ZeitgeberH) is recommended, a python package using the same method to calculate electrophysiological properties
+### [Patchview](https://patchview.readthedocs.io/en/latest/) by@[ZeitgeberH](https://github.com/ZeitgeberH) is recommended, a python package using the same method to calculate electrophysiological properties
 
