@@ -31,7 +31,7 @@ https://github.com/berenslab/MorphoPy
 
 ### stems length calculations:
 
-The stem (from soma to the first branch point of a dendrite) length was manually calculated the. Stem_max/Stem_min/Stem_mean (in micrometer) represent the maximum, minimum and the mean values of the stem lengths of all the dendrites of a cell. If a cell has only one dendrite, these three parameters will be same.
+The stem (from soma to the first branch point of a dendrite) length was manually calculated. The Stem_max/Stem_min/Stem_mean (in micrometer) represent the maximum, minimum and the mean values of the stem lengths of all the dendrites of a cell. If a cell has only one dendrite, these three parameters will be same.
 
 ![image](https://user-images.githubusercontent.com/42681557/224118282-860f79aa-8b43-4660-af70-d8ed691db061.png)
 
