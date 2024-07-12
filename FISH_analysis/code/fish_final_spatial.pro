@@ -299,7 +299,6 @@ img.close
 
   result = FILE_TEST(DIR + 'fish_final_spatial.pro')
   if result eq 1 then file_delete,DIR + 'fish_final_spatial.pro'
-  file_copy ,'C:\Users\Junzhan\IDLWorkspace\Default\fish_final_spatial.pro', DIR + 'fish_final_spatial.pro'
 
 endelse 
 flag1:
