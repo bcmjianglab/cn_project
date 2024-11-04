@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- Junzhan Jing
+- Ming Hu
+- Xiaolong Jiang
+orcid: https://orcid.org/0000-0000-0000-0000
+Molecular logic for cellular specializations that initiate the auditory parallel processing pathways
+version: v1.0.0
+date-released: 2024-11-04
