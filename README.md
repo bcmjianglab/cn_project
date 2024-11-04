@@ -1,5 +1,5 @@
 ![CN](https://user-images.githubusercontent.com/42681557/235717163-05d6f944-5921-4476-9aca-3baf474e5c8e.png)
-# Comprehensive analysis of cellular specializations that initiate parallel auditory processing pathways in mice.
+# Molecular logic for cellular specializations that initiate the auditory parallel processing pathways.
 By Junzhan Jing @[junzhanj](https://github.com/junzhanj) , Ming Hu@[ZeitgeberH](https://github.com/ZeitgeberH), Xiaolong Jiang ([Jianglab](https://xjianglab.org/)) from Deparment of Neurosicence, Baylor College of Medicine
 
 [Check our Preprint Manuscript](https://doi.org/10.1101/2023.05.15.539065)
