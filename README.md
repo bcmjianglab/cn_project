@@ -2,7 +2,7 @@
 # Molecular logic for cellular specializations that initiate the auditory parallel processing pathways.
 By Junzhan Jing @[junzhanj](https://github.com/junzhanj) , Ming Hu@[ZeitgeberH](https://github.com/ZeitgeberH), Xiaolong Jiang ([Jianglab](https://xjianglab.org/)) from Deparment of Neurosicence, Baylor College of Medicine
 
-[Check our Preprint Manuscript](https://doi.org/10.1101/2023.05.15.539065)
+[Check our publication at Nature Communications](https://doi.org/10.1038/s41467-024-55257-z)
 
 Original electrophysiological data, morphological data and the sequencing matrix data supporting the findings of this study have been deposited to the Mendeley Data([doi:10.17632/2n8m8k6b2g.1](https://doi.org/10.17632/2n8m8k6b2g.1)), will be released once the whole story is published
 
